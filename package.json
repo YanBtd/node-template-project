@@ -1,0 +1,11 @@
+{
+    "name": "node-template-project",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "test": "jest tests"
+    },
+    "devDependencies": {
+        "jest": "^29.7.0"
+    }
+}
